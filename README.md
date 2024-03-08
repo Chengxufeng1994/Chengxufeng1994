@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋.
+- 🧑‍💻 Backend Engineer(Taipei, Taiwan)
+- 🐳 Kubernetes, Container, Golang, TypeScript(JavaScript), Postgresql, Redis, Kafka
+
+### **My GitHub Stats**
+
+![Chengxufeng1994's Stats](https://github-readme-stats.vercel.app/api?username=Chengxufeng1994&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![Chengxufeng1994's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chengxufeng1994&theme=jolly&hide_border=true)
+
 
 <!--
 **Chengxufeng1994/Chengxufeng1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
